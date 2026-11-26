@@ -1,4 +1,6 @@
-"""One Line, One Laugh: Roast Your Fridge entry: writes one original fridge roast to /output/entry.txt."""
+"""One Line, One Laugh: Roast Your Fridge entry: writes one original fridge roast to /output/entry.txt.
+
+The joke exaggerates a fridge's two failures into opposite extremes — an Arctic expedition that freezes everything and lukewarm soup that chills nothing — so the appliance fails at its one job in both directions."""
 import os
 
 LINE = "My fridge has two settings: Arctic expedition and lukewarm soup — there is no in-between."
