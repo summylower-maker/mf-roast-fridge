@@ -6,6 +6,10 @@
 
 One original fridge roast (89 characters), written by `main.py` to `/output/entry.txt`, entered in make.fun's "One Line, One Laugh: Roast Your Fridge" bounty. See the bounty page: https://make.fun/bounty/u-suzy-one-line-one-laugh-roast-your-fridge-f1063521
 
+## Why this line works
+
+The roast works through impossible extremes: a fridge should sit at one sensible temperature, but this one only offers an Arctic expedition or lukewarm soup. Both settings fail at the fridge's single job — keeping food cold — in opposite ways, and the flat "there is no in-between" makes the broken appliance sound like a deliberate design choice.
+
 ## Run it
 
 ```sh
